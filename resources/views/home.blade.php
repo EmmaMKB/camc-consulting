@@ -17,7 +17,8 @@
                                     Impactons votre business.</div>
                                 <h6
                                     class="text-white-2 opacity6 padding-ten-lr font-weight-300 margin-four-bottom md-margin-four-bottom sm-margin-20px-bottom">
-                                    Votre Partenaire Stratégique en solutions de Marketing Management et de Performance Organisationnelle en RDC.</h6>
+                                    Votre Partenaire Stratégique en solutions de Marketing Management et de Performance
+                                    Organisationnelle en RDC.</h6>
                                 <div><a href="#" target="_blank"
                                         class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Entrez en contact</a>
                                 </div>
@@ -57,7 +58,8 @@
                                     Innovation, Gestion et Réussite</div>
                                 <h6
                                     class="text-white-2 opacity6 padding-ten-lr font-weight-300 margin-four-bottom md-margin-four-bottom sm-margin-20px-bottom">
-                                    Des solutions managériales novatrices, adaptées au marché de la RDC, pour une compétitivité accrue et une excellence opérationnelle.</h6>
+                                    Des solutions managériales novatrices, adaptées au marché de la RDC, pour une
+                                    compétitivité accrue et une excellence opérationnelle.</h6>
                                 <div><a href="#" target="_blank"
                                         class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Entrez en contact</a>
                                 </div>
@@ -80,314 +82,57 @@
         <!-- scroll down arrow -->
         <div class="scroll-down-section text-center"><a href="#about"
                 class="inner-link text-uppercase text-small text-white-2 text-white-2-hover opacity5 margin-10px-bottom d-inline-block">scrollez
-                </a>
+            </a>
             <div class="separator-line-verticle-large bg-deep-pink m-auto"></div>
         </div>
         <!-- start slider pagination -->
     </section>
     <!-- end slider section -->
     <!-- start about section -->
-    {{-- <section id="about" class="wow animate__fadeIn cover-background"
+    <section id="about-us" class="wow animate__fadeIn cover-background"
         style="background-image:url('images/business-about-bg.jpg');">
         <div class="container">
             <div class="row row-cols-1 row-cols-lg-2 row-cols-md-2 align-items-center">
                 <div class="col text-center sm-margin-35px-bottom wow animate__fadeIn">
-                    <img src="https://via.placeholder.com/580x640" alt="" class="w-100">
+                    <img src="{{ asset('assets/images/about-1.webp') }}" alt="" class="w-100">
                 </div>
                 <div class="col padding-six-lr lg-padding-15px-lr text-center text-md-start wow animate__fadeIn"
                     data-wow-delay="0.2s">
-                    <h3 class="font-weight-600 alt-font text-extra-dark-gray">We combine design, thinking and craft.</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry’s standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum has been
-                        the industry’s standard dummy text since.</p>
-                    <a href="about-us-modern.html"
-                        class="btn btn-small btn-rounded btn-dark-gray margin-20px-top sm-margin-5px-top">explore more</a>
+                    <h3 class="font-weight-600 alt-font text-extra-dark-gray">A propos de nous.</h3>
+                    <p>Établie en République Démocratique du Congo (RDC), CAMC Consulting est une entreprise spécialisée
+                        dans le Marketing Management et la Formation, entièrement dédiée à l'amélioration de la performance
+                        marketing et organisationnelle des entreprises. <br><br>
+
+                        Forts de notre expérience et d'une approche résolument novatrice, nous accompagnons avec succès les
+                        organisations de toutes tailles à atteindre leurs objectifs stratégiques. Nous fournissons des
+                        solutions managériales sur mesure qui répondent concrètement aux réalités et aux exigences du marché
+                        local. <br><br>
+
+                        Notre engagement : Être le moteur de votre croissance et garantir l'impact positif de vos
+                        investissements.
+                    </p>
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
     <!-- end about section -->
-    <!-- start feature section -->
-    {{-- <section class="wow animate__fadeIn cover-background" style="background-image:url('images/business-digital-bg.jpg');">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div
-                    class="col-xl-5 col-md-6 col-sm-8 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
-                    <div class="alt-font text-medium-gray margin-15px-bottom text-uppercase text-small">Easy way to build
-                        websites</div>
-                    <h5 class="alt-font text-extra-dark-gray font-weight-600 mb-0">A digital studio crafting beautiful
-                        experiences.</h5>
-                </div>
-            </div>
-            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center">
-                <!-- start feature box item -->
-                <div class="col-sm-8 md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn">
-                    <div
-                        class="bg-white text-center border-radius-10 h-100 padding-eighteen-all position-relative lg-padding-twelve-all">
-                        <h4 class="text-light-gray text-deep-pink alt-font font-weight-300 margin-20px-bottom">01</h4>
-                        <div
-                            class="alt-font text-large text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom font-weight-600">
-                            Discover talent</div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                        <a href="#" class="btn btn-link text-extra-dark-gray text-deep-pink-hover btn-medium">view
-                            more</a>
-                    </div>
-                </div>
-                <!-- end feature box item -->
-                <!-- start feature box item -->
-                <div class="col-sm-8 md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                    <div
-                        class="bg-white text-center border-radius-10 h-100 padding-eighteen-all position-relative lg-padding-twelve-all">
-                        <h4 class="text-light-gray text-deep-pink alt-font font-weight-300 margin-20px-bottom">02</h4>
-                        <div
-                            class="alt-font text-large text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom font-weight-600">
-                            Expert analysis</div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                        <a href="#" class="btn btn-link text-extra-dark-gray text-deep-pink-hover btn-medium">view
-                            more</a>
-                    </div>
-                </div>
-                <!-- end feature box item -->
-                <!-- start feature box item -->
-                <div class="col-sm-8 wow animate__fadeIn" data-wow-delay="0.4s">
-                    <div
-                        class="bg-white text-center border-radius-10 h-100 padding-eighteen-all position-relative lg-padding-twelve-all">
-                        <h4 class="text-light-gray text-deep-pink alt-font font-weight-300 margin-20px-bottom">03</h4>
-                        <div
-                            class="alt-font text-large text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom font-weight-600">
-                            Explore work</div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                        <a href="#" class="btn btn-link text-extra-dark-gray text-deep-pink-hover btn-medium">view
-                            more</a>
-                    </div>
-                </div>
-                <!-- end feature box item -->
-            </div>
-        </div>
-    </section> --}}
-    <!-- end feature section -->
-    <!-- start portfolio section -->
-    {{-- <section class="wow animate__fadeIn no-padding-bottom">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div
-                    class="col-xl-5 col-md-6 col-sm-8 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
-                    <div class="alt-font text-medium-gray margin-15px-bottom text-uppercase text-small">Our recent works
-                    </div>
-                    <h5 class="alt-font text-extra-dark-gray font-weight-600 mb-0">New stunning projects for our amazing
-                        clients</h5>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12 filter-content overflow-hidden">
-                    <ul
-                        class="hover-option7 portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-medium">
-                        <li class="grid-sizer"></li>
-                        <!-- start portfolio item -->
-                        <li class="grid-item wow animate__fadeInUp">
-                            <a href="single-project-page-01.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x800"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Naked
-                                                        Soap</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Web and
-                                                        Photography</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item wow animate__fadeInUp" data-wow-delay="0.2s">
-                            <a href="single-project-page-02.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x1200"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Berlin
-                                                        Design</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Branding
-                                                        and Brochure</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item wow animate__fadeInUp" data-wow-delay="0.4s">
-                            <a href="single-project-page-03.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x800"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Abstract
-                                                        Comics</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Branding
-                                                        and Identity</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item wow animate__fadeInUp" data-wow-delay="0.6s">
-                            <a href="single-project-page-04.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x1200"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Teabag
-                                                        Collection</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Web and
-                                                        Photography</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio-item item -->
-                        <li class="grid-item wow animate__fadeInUp">
-                            <a href="single-project-page-05.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x1200"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Herbal
-                                                        Beauty Salon</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Branding
-                                                        and Identity</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item wow animate__fadeInUp" data-wow-delay="0.2s">
-                            <a href="single-project-page-06.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x1200"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Tailoring
-                                                        Interior</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Branding
-                                                        and Brochure</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item wow animate__fadeInUp" data-wow-delay="0.4s">
-                            <a href="single-project-page-07.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x800"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Pixflow
-                                                        Studio</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Branding
-                                                        and Identity</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item wow animate__fadeInUp" data-wow-delay="0.6s">
-                            <a href="single-project-page-08.html">
-                                <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/800x800"
-                                            alt="" /></div>
-                                    <figcaption>
-                                        <div class="portfolio-hover-main text-center last-paragraph-no-margin">
-                                            <div class="portfolio-hover-box align-middle">
-                                                <div class="portfolio-hover-content position-relative">
-                                                    <span
-                                                        class="font-weight-600 alt-font text-uppercase margin-one-bottom d-block text-extra-dark-gray">Designblast
-                                                        Inc</span>
-                                                    <p class="text-medium-gray text-uppercase text-extra-small">Web and
-                                                        Photography</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section> --}}
-    <!-- end portfolio section -->
     <!-- start our services box -->
-    {{-- <section class="wow animate__fadeIn">
+    <section id="services" class="wow animate__fadeIn">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-xl-6 col-lg-5 col-md-12 col-sm-10 padding-eight-right text-center text-lg-start lg-padding-five-right md-padding-fifteen-lr md-margin-80px-bottom sm-padding-15px-lr sm-margin-50px-bottom wow animate__fadeIn"
                     data-wow-delay="0.2s">
-                    <div class="alt-font text-medium-gray margin-15px-bottom text-uppercase text-small">Our services</div>
-                    <h4 class="font-weight-600 alt-font text-extra-dark-gray margin-35px-bottom sm-margin-25px-bottom">We
-                        are deliver beautiful digital products for you</h4>
-                    <p class="w-80 lg-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been industry's standard dummy text ever since when an unknown.</p>
-                    <a href="services-classic.html"
-                        class="btn btn-small btn-rounded btn-transparent-dark-gray margin-10px-top">View all services</a>
+                    <div class="alt-font text-medium-gray margin-15px-bottom text-uppercase text-small">Nos services</div>
+                    <h4 class="font-weight-600 alt-font text-extra-dark-gray margin-35px-bottom sm-margin-25px-bottom">
+                        Nous transformons Votre Potentiel en Performance
+                        Réelle.
+                    </h4>
+                    <p class="w-80 lg-w-100">
+                        Chez CAMC Consulting, notre rôle est de fournir à votre organisation les leviers stratégiques
+                        nécessaires pour prospérer sur le marché congolais. Nous ne faisons pas que conseiller ; nous
+                        agissons comme un partenaire stratégique qui apporte une expertise pointue et des solutions
+                        novatrices.
+                    </p>
                 </div>
                 <div class="col-xl-6 col-lg-7 col-sm-10">
                     <div class="row row-cols-1 row-cols-md-2">
@@ -400,8 +145,9 @@
                                         <i class="icon-hotairballoon text-deep-pink icon-large margin-25px-bottom"></i>
                                         <div
                                             class="alt-font text-medium text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom font-weight-700">
-                                            Digital Branding</div>
-                                        <p>Lorem Ipsum is simply dummy printing typesetting industry.</p>
+                                            Conseil commercial et marketing</div>
+                                        <p>Propulsez votre croissance : Stratégies commerciales et marketing qui génèrent
+                                            des résultats.</p>
                                         <div class="feature-box-overlay bg-deep-pink"></div>
                                     </div>
                                 </div>
@@ -413,8 +159,9 @@
                                         <i class="icon-strategy text-deep-pink icon-large margin-25px-bottom"></i>
                                         <div
                                             class="alt-font text-medium text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom font-weight-700">
-                                            Graphic Design</div>
-                                        <p>Lorem Ipsum is simply dummy printing typesetting industry.</p>
+                                            Gestion des ressources humaines</div>
+                                        <p>Optimisez votre capital humain : Des équipes performantes au service de votre
+                                            vision d'entreprise.</p>
                                         <div class="feature-box-overlay bg-deep-pink"></div>
                                     </div>
                                 </div>
@@ -431,21 +178,9 @@
                                         <i class="icon-layers text-deep-pink icon-large margin-25px-bottom"></i>
                                         <div
                                             class="alt-font text-medium text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom font-weight-700">
-                                            Web Interactive</div>
-                                        <p>Lorem Ipsum is simply dummy printing typesetting industry.</p>
-                                        <div class="feature-box-overlay bg-deep-pink"></div>
-                                    </div>
-                                </div>
-                                <!-- end feature box item -->
-                                <!-- start feature box item -->
-                                <div class="col wow animate__fadeIn" data-wow-delay="0.6s">
-                                    <div
-                                        class="feature-box-18 bg-light-gray text-center border-radius-8 overflow-hidden z-index-0 position-relative padding-fifteen-lr padding-twenty-two-tb sm-padding-fifteen-tb last-paragraph-no-margin">
-                                        <i class="icon-shield text-deep-pink icon-large margin-25px-bottom"></i>
-                                        <div
-                                            class="alt-font text-medium text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom font-weight-700">
-                                            Powerful Options</div>
-                                        <p>Lorem Ipsum is simply dummy printing typesetting industry.</p>
+                                            Assistance TVA et Fiscalité</div>
+                                        <p>Sécurisez votre conformité : Maîtriser la fiscalité pour une gestion saine et
+                                            sans risque.</p>
                                         <div class="feature-box-overlay bg-deep-pink"></div>
                                     </div>
                                 </div>
@@ -456,161 +191,93 @@
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
     <!-- end our services box -->
-    <!-- start video section -->
-    {{-- <section class="p-0 wow animate__fadeIn">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-xl-7 col-lg-6 cover-background md-h-500px sm-h-400px overflow-visible wow animate__fadeInLeft"
-                    style="background-image:url('https://via.placeholder.com/1105x710');">
-                    <a class="popup-youtube icon-play-style-2 absolute-middle-center"
-                        href="https://www.youtube.com/watch?v=sU3FkzUKHXU">
-                        <span>
-                            <span class="video-icon bg-gradient-light-red-light-orange box-shadow-large"><i
-                                    class="fa fa-play text-white-2 margin-5px-left" aria-hidden="true"></i></span>
-                        </span>
-                    </a>
-                </div>
-                <div class="col-xl-5 col-lg-6 padding-eight-half-all xl-padding-seven-all wow animate__fadeInRight">
-                    <h4
-                        class="alt-font text-black font-weight-600 margin-45px-bottom md-margin-25px-bottom sm-margin-20px-bottom">
-                        We provide solutions to grow your business</h4>
-                    <p class="margin-35px-bottom w-95 md-margin-25px-bottom sm-w-100">Lorem Ipsum is simply dummy text
-                        printing and typesetting industry been the industry's standard dummy text ever since when an unknown
-                        printer took a galley of type and scrambled</p>
-                    <ul class="list-style-12 margin-35px-top">
-                        <li>Let’s collaborate make an impact in the business</li>
-                        <li>A satisfied customer is the best business starts</li>
-                        <li>Expertise to build the things that matter for you</li>
-                    </ul>
-                    <a href="services-simple.html"
-                        class="btn btn-small btn-rounded btn-dark-gray margin-40px-top sm-margin-25px-top">View all
-                        services</a>
-                </div>
-            </div>
-        </div>
-    </section> --}}
-    <!-- end video section -->
-    <!-- start teamwork section -->
-    {{-- <section class="big-section cover-background h-850px lg-h-700px sm-h-400px wow animate__fadeIn"
-        style="background-image:url('https://via.placeholder.com/1920x855');">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div
-                    class="col-xl-5 col-md-6 col-sm-8 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
-                    <div class="alt-font text-medium-gray margin-15px-bottom text-uppercase text-small">Creative People
-                    </div>
-                    <h5 class="alt-font text-extra-dark-gray font-weight-600 mb-0">Teamwork builds trust and the trust
-                        build growth</h5>
-                </div>
-            </div>
-        </div>
-    </section> --}}
-    <!-- end teamwork section -->
-    <!-- start blog section -->
-    {{-- <section class="wow animate__fadeIn">
+    <!-- start feature box section -->
+    <section id="why-work" class="bg-extra-dark-gray wow animate__fadeIn">
         <div class="container">
             <div class="row justify-content-center">
                 <div
                     class="col-xl-5 col-lg-6 col-md-7 col-sm-8 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
-                    <div class="alt-font text-medium-gray margin-15px-bottom text-uppercase text-small">Latest Blogs</div>
-                    <h5 class="alt-font text-extra-dark-gray font-weight-600 mb-0">Publish what you think, don't put it on
-                        social media</h5>
+                    <div class="alt-font text-medium-gray margin-5px-bottom text-uppercase text-small">Pourquoi travailler avec nous ?</div>
+                    <h5 class="alt-font text-white-2 font-weight-600 mb-0">Nous offrons une expérience inégalée
+                        </h5>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-12 blog-content">
-                    <ul
-                        class="blog-grid blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col hover-option4 blog-post-style3 gutter-extra-large">
-                        <li class="grid-sizer"></li>
-                        <!-- start blog post item -->
-                        <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
-                            <div class="blog-post bg-light-gray">
-                                <div class="blog-post-images overflow-hidden position-relative">
-                                    <a href="blog-post-layout-01.html">
-                                        <img src="https://via.placeholder.com/900x632" alt="">
-                                        <div class="blog-hover-icon"><span
-                                                class="text-extra-large font-weight-300">+</span></div>
-                                    </a>
-                                </div>
-                                <div class="post-details padding-40px-all md-padding-20px-all">
-                                    <a href="blog-post-layout-01.html"
-                                        class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">I
-                                        find modernist design, but it so much faster!</a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum standard dummy...</p>
-                                    <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
-                                    <div class="author">
-                                        <span
-                                            class="text-medium-gray text-uppercase text-extra-small d-xl-inline-block d-block md-margin-10px-top">by
-                                            <a href="blog-grid.html" class="text-medium-gray">Jay
-                                                Benjamin</a>&nbsp;&nbsp;|&nbsp;&nbsp;20 August 2020</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- end blog post item -->
-                        <!-- start blog post item -->
-                        <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp"
-                            data-wow-delay="0.2s">
-                            <div class="blog-post bg-light-gray">
-                                <div class="blog-post-images overflow-hidden position-relative">
-                                    <a href="blog-post-layout-01.html">
-                                        <img src="https://via.placeholder.com/900x632" alt="">
-                                        <div class="blog-hover-icon"><span
-                                                class="text-extra-large font-weight-300">+</span></div>
-                                    </a>
-                                </div>
-                                <div class="post-details padding-40px-all md-padding-20px-all">
-                                    <a href="blog-post-layout-01.html"
-                                        class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Being
-                                        a famous designer is like being a famous dentist.</a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum standard dummy...</p>
-                                    <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
-                                    <div class="author">
-                                        <span
-                                            class="text-medium-gray text-uppercase text-extra-small d-xl-inline-block d-block md-margin-10px-top">by
-                                            <a href="blog-grid.html" class="text-medium-gray">Herman
-                                                Miller</a>&nbsp;&nbsp;|&nbsp;&nbsp;18 August 2020</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- end blog post item -->
-                        <!-- start blog post item -->
-                        <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp"
-                            data-wow-delay="0.4s">
-                            <div class="blog-post bg-light-gray">
-                                <div class="blog-post-images overflow-hidden position-relative">
-                                    <a href="blog-post-layout-01.html">
-                                        <img src="https://via.placeholder.com/900x632" alt="">
-                                        <div class="blog-hover-icon"><span
-                                                class="text-extra-large font-weight-300">+</span></div>
-                                    </a>
-                                </div>
-                                <div class="post-details padding-40px-all md-padding-20px-all">
-                                    <a href="blog-post-layout-01.html"
-                                        class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Designers
-                                        are meant to be loved, not to be understood.</a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum standard dummy....</p>
-                                    <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
-                                    <div class="author">
-                                        <span
-                                            class="text-medium-gray text-uppercase text-extra-small d-xl-inline-block d-block md-margin-10px-top">by
-                                            <a href="blog-grid.html" class="text-medium-gray">Hugh
-                                                Macleod</a>&nbsp;&nbsp;|&nbsp;&nbsp;15 August 2020</span>
-                                    </div>
+            <div class="row row-cols-1 row-cols-lg-2 row-cols-md-2 justify-content-center align-items-center">
+
+                <!-- start services item -->
+                <div class="col-sm-8 md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin"
+                    data-wow-delay="0.2s">
+                    <div
+                        class="bg-white box-shadow-light text-center h-100 padding-eighteen-tb feature-box-8 position-relative z-index-5">
+                        <div
+                            class="d-inline-block margin-25px-bottom margin-10px-top md-margin-20px-bottom sm-margin-15px-bottom">
+                            <i class="fa fa-eye icon-extra-medium text-deep-pink text-white-2"></i>
+                        </div>
+                        <div class="alt-font text-extra-dark-gray font-weight-600 margin-10px-bottom">Notre Vision</div>
+                        <p class="w-75 lg-w-90 md-w-85 mx-auto">Être le partenaire incontournable des entreprises pour une
+                            performance durable et mesurable.</p>
+                        <div class="feature-box-overlay bg-deep-pink"></div>
+                    </div>
+                </div>
+                <!-- end services item -->
+                <!-- start services item -->
+                <div class="col-sm-8 sm-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin"
+                    data-wow-delay="0.4s">
+                    <div
+                        class="bg-white box-shadow-light text-center h-100 padding-eighteen-tb feature-box-8 position-relative z-index-5">
+                        <div
+                            class="d-inline-block margin-25px-bottom margin-10px-top md-margin-20px-bottom sm-margin-15px-bottom">
+                            <i class="icon-target icon-extra-medium text-deep-pink text-white-2"></i>
+                        </div>
+                        <div class="alt-font text-extra-dark-gray font-weight-600 margin-10px-bottom">Notre Mission</div>
+                        <p class="w-75 lg-w-90 md-w-85 mx-auto">Devenir le levier d'excellence pour nos clients en
+                            fournissant des solutions stratégiques et opérationnelles pour une croissance pérenne.</p>
+                        <div class="feature-box-overlay bg-deep-pink"></div>
+                    </div>
+                </div>
+                <!-- end services item -->
+
+            </div>
+        </div>
+    </section>
+    <!-- start feature box section -->
+    <!-- start contact section -->
+    <section id="contact" class="wow animate__fadeIn p-0 bg-light-gray">
+        <div class="container-fluid">
+            <div class="row row-cols-1 row-cols-lg-2">
+                <div class="col cover-background md-h-550px sm-h-350px wow animate__fadeIn"
+                    style="background: url(https://via.placeholder.com/1200x854)"></div>
+                <div
+                    class="col padding-five-tb padding-six-lr md-padding-eleven-all text-center sm-padding-15px-lr wow animate__fadeIn">
+                    <div class="text-medium-gray alt-font text-small text-uppercase margin-5px-bottom">Prêt à travailler
+                        avec nous ?</div>
+                    <h5
+                        class="margin-55px-bottom text-color alt-font font-weight-600 text-uppercase md-margin-30px-bottom sm-margin-15px-bottom">
+                        Entrez en contact avec nous!</h5>
+                    <div>
+                        <form id="contact-form-2" method="post">
+                            <div class="row justify-content-center">
+                                <div class="col-12 wow animate__fadeIn text-center">
+                                    <div class="form-results d-none"></div>
+                                    <input type="text" name="name" id="name" placeholder="Name*"
+                                        class="input-border-bottom required">
+                                    <input type="email" name="email" id="email" placeholder="E-mail*"
+                                        class="input-border-bottom required">
+                                    <input type="text" id="subject" name="subject" placeholder="Subject"
+                                        class="input-border-bottom">
+                                    <textarea name="comment" id="comment" placeholder="Your Message" class="input-border-bottom"></textarea>
+                                    <button id="contact-us-button-2" type="submit"
+                                        class="btn btn-small btn-deep-pink margin-30px-top sm-margin-three-top submit">Envoyer
+                                        </button>
                                 </div>
                             </div>
-                        </li>
-                        <!-- end blog post item -->
-                    </ul>
+                        </form>
+                    </div>
                 </div>
             </div>
         </div>
-    </section> --}}
-    <!-- end blog section -->
+    </section>
+    <!-- end contact section -->
 @endsection

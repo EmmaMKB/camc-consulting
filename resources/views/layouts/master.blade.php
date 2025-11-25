@@ -43,53 +43,20 @@
                         </button>
                         <div class="navbar-collapse collapse justify-content-center" id="navbar-collapse-toggle-1">
                             <ul id="accordion" class="nav navbar-nav no-margin alt-font text-normal" data-in="animate__fadeIn" data-out="animate__fadeOut">
-
                                 <li class="">
-                                    <a href="#">Pages</a>
-                                    <!-- start sub menu -->
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li class="dropdown"><a class="dropdown-toggle" data-bs-toggle="dropdown" href="#">About <i class="fa-solid fa-angle-right"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="about-us-simple.html">About us simple</a></li>
-                                                <li><a href="about-us-classic.html">About us classic</a></li>
-                                                <li><a href="about-us-modern.html">About us modern</a></li>
-                                                <li><a href="about-me.html">About me</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a class="dropdown-toggle" data-bs-toggle="dropdown" href="#">Services <i class="fa-solid fa-angle-right"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="services-simple.html">Services simple</a></li>
-                                                <li><a href="services-classic.html">Services classic</a></li>
-                                                <li><a href="services-modern.html">Services modern</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a class="dropdown-toggle" data-bs-toggle="dropdown" href="#">Contact <i class="fa-solid fa-angle-right"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="contact-us-simple.html">Contact simple</a></li>
-                                                <li><a href="contact-us-classic.html">Contact classic</a></li>
-                                                <li><a href="contact-us-classic-02.html">Contact classic – style 02</a></li>
-                                                <li><a href="contact-us-modern.html">Contact modern</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a class="dropdown-toggle" data-bs-toggle="dropdown" href="#">Team <i class="fa-solid fa-angle-right"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="team-simple.html">Team simple</a></li>
-                                                <li><a href="team-classic.html">Team classic</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a class="dropdown-toggle" data-bs-toggle="dropdown" href="#">Additional Pages <i class="fa-solid fa-angle-right"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="our-clients.html">Our clients</a></li>
-                                                <li><a href="404.html">Error 404</a></li>
-                                                <li><a href="coming-soon.html">Coming soon</a></li>
-                                                <li><a href="coming-soon-02.html">Coming soon – style 02</a></li>
-                                                <li><a href="faq.html">Faq</a></li>
-                                                <li><a href="maintenance.html">Maintenance</a></li>
-                                                <li><a href="search-result.html">Search result</a></li>
-                                                <li><a href="pricing.html">Pricing</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                    <a href="{{ route('home') }}">Home</a>
+                                </li>
+                                <li>
+                                    <a href="#about-us">About Us</a>
+                                </li>
+                                <li>
+                                    <a href="#services">Our Services</a>
+                                </li>
+                                <li>
+                                    <a href="#why-work">About Us</a>
+                                </li>
+                                <li>
+                                    <a href="#contact">Contact</a>
                                 </li>
                             </ul>
                         </div>
@@ -116,7 +83,6 @@
                         <span class="text-medium">Nous vous offrons une expertise de pointe pour optimiser votre entreprise</span>
                     </div>
                     <div class="col-lg-4 col-md-5 text-center text-md-end">
-                        <span class="text-extra-large text-extra-dark-gray text-light-gray d-inline-block sm-d-block"><a  href="contact-us-classic.html" class="btn btn-large btn-transparent-white d-table d-lg-inline-block md-margin-lr-auto">Start a project</a></span>
                     </div>
                 </div>
                 <div class="border-top border-color-medium-dark-gray padding-80px-top margin-80px-top lg-padding-60px-top lg-margin-60px-top md-padding-50px-top md-margin-50px-top sm-padding-40px-top sm-margin-40px-top">
