@@ -19,8 +19,8 @@
                                     class="text-white-2 opacity6 padding-ten-lr font-weight-300 margin-four-bottom md-margin-four-bottom sm-margin-20px-bottom">
                                     Votre Partenaire Stratégique en solutions de Marketing Management et de Performance
                                     Organisationnelle en RDC.</h6>
-                                <div><a href="#" target="_blank"
-                                        class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Entrez en contact</a>
+                                <div><a href="#contact" target="_blank"
+                                        class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Entrez en Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -39,8 +39,8 @@
                                 <h6
                                     class="text-white-2 opacity6 padding-ten-lr font-weight-300 margin-four-bottom md-margin-four-bottom sm-margin-20px-bottom">
                                     Nous assurons la croissance de votre organisation.</h6>
-                                <div><a href="#" target="_blank"
-                                        class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Purchase Pofo</a>
+                                <div><a href="#contact" target="_blank"
+                                        class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Entrez en Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -60,8 +60,8 @@
                                     class="text-white-2 opacity6 padding-ten-lr font-weight-300 margin-four-bottom md-margin-four-bottom sm-margin-20px-bottom">
                                     Des solutions managériales novatrices, adaptées au marché de la RDC, pour une
                                     compétitivité accrue et une excellence opérationnelle.</h6>
-                                <div><a href="#" target="_blank"
-                                        class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Entrez en contact</a>
+                                <div><a href="#contact" target="_blank"
+                                        class="btn btn-deep-pink btn-rounded btn-medium no-margin-lr">Entrez en Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@
         </div>
         <!-- scroll down arrow -->
         <div class="scroll-down-section text-center"><a href="#about"
-                class="inner-link text-uppercase text-small text-white-2 text-white-2-hover opacity5 margin-10px-bottom d-inline-block">scrollez
+                class="inner-link text-uppercase text-small text-white-2 text-white-2-hover opacity5 margin-10px-bottom d-inline-block">Défilez vers le bas
             </a>
             <div class="separator-line-verticle-large bg-deep-pink m-auto"></div>
         </div>
